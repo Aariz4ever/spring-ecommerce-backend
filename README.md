@@ -126,46 +126,46 @@ DELETE /api/products/{id}
 ### **2. API Testing (Postman)**
 
 ### 🔹 Base API Call
-![Postman Screenshot](screenshots/1.png)
+![Postman Screenshot](./screenshots/1.png)
 
 ### 🔹 Get all products (initially)
-![Postman Screenshot](screenshots/2.png)
+![Postman Screenshot](./screenshots/2.png)
 
 ### 🔹 Posting a Product
-![Postman Screenshot](screenshots/3.png)
+![Postman Screenshot](./screenshots/3.png)
 
 ### 🔹 Get Product of ID {1}
-![Postman Screenshot](screenshots/4.png)
+![Postman Screenshot](./screenshots/4.png)
 
 ### 🔹 Shown in Hibernate ORM
-![Database Screenshot](screenshots/5.png)
+![Database Screenshot](./screenshots/5.png)
 
 ### 🔹 Posting another product (which increments id++) ie: id = 2
-![Postman Screenshot](screenshots/6.png)
+![Postman Screenshot](./screenshots/6.png)
 
 ### 🔹 Displaying all the products added so far
-![Postman Screenshot](screenshots/7.png)
+![Postman Screenshot](./screenshots/7.png)
 
 ### 🔹 Get Product details of ID {2}
-![Postman Screenshot](screenshots/8.png)
+![Postman Screenshot](./screenshots/8.png)
 
 ### 🔹 Shown in Database
-![Database Screenshot](screenshots/9.png)
+![Database Screenshot](./screenshots/9.png)
 
 ### 🔹 Updating Product ID {1}
-![Postman Screenshot](screenshots/10.png)
+![Postman Screenshot](./screenshots/10.png)
 
 ### 🔹 Reflects update in Database
-![Database Screenshot](screenshots/11.png)
+![Database Screenshot](./screenshots/11.png)
 
 ### 🔹 Deleting product ID {1}
-![Postman Screenshot](screenshots/12.png)
+![Postman Screenshot](./screenshots/12.png)
 
 ### 🔹 Displaying all the remaining products in the Database
-![Postman Screenshot](screenshots/13.png)
+![Postman Screenshot](./screenshots/13.png)
 
 ### 🔹 Shown in Database
-![Database Screenshot](screenshots/14.png)
+![Database Screenshot](./screenshots/14.png)
 
 # 📘 How It Works
 
